@@ -4,7 +4,7 @@
   <img src="https://render.gitanimals.org/farms/yuniverse-io" width="600" height="300" />
 </a>
 
-### 🪐 yuniverse-io
+### yuniverse-io
 
 AI, real-time web, and product experiments.
 
@@ -24,7 +24,7 @@ AI, real-time web, and product experiments.
 
 <div align="center">
 
-🧩 Building **unface**  
+Building **unface**  
 Anonymous video chat with face filters, voice effects, and real-time translation.
 
 </div>
